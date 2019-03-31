@@ -17,13 +17,14 @@ const Win10Blue = ({
         <div className="error">
           If you'd like to know more, you can search online later for this error: CRITICAL_PROCESS_DIED
         </div>
-        <div className="message">Restart your PC manually</div>
+        <div className="restart">Restart your PC manually</div>
       </div>
     </div>
   );
 };
 
 export default styled(Win10Blue) `
+height: 100%;
 position: absolute;
 top: 0;
 left: 0;
@@ -33,7 +34,6 @@ display: flex;
 align-items: center;
 justify-content: center;
 font-family: 'Segoe UI light', Arial;
-word-break: break-word;
 .content {
   display: flex;
   flex-direction: column;
@@ -53,7 +53,12 @@ word-break: break-word;
 }
 
 .message {
-  font-size: 2.3em;
+  font-size: 2em;
   margin-bottom: 5px;
   color: #fff;
-}`;
+}
+
+.restart {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+  color: #fff;`;
