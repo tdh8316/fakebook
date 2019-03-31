@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Win10Blue = ({
+const WindowsBluescreen = ({
   className
 }) => {
   return (
@@ -23,7 +23,7 @@ const Win10Blue = ({
   );
 };
 
-export default styled(Win10Blue) `
+export default styled(WindowsBluescreen) `
 height: 100%;
 position: absolute;
 top: 0;
