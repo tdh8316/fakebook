@@ -1,11 +1,11 @@
 {
-  "main.js": "/fakebook/static/js/main.86838f06.chunk.js",
-  "main.js.map": "/fakebook/static/js/main.86838f06.chunk.js.map",
+  "main.js": "/fakebook/static/js/main.8e6024d5.chunk.js",
+  "main.js.map": "/fakebook/static/js/main.8e6024d5.chunk.js.map",
   "runtime~main.js": "/fakebook/static/js/runtime~main.77276bc7.js",
   "runtime~main.js.map": "/fakebook/static/js/runtime~main.77276bc7.js.map",
   "static/js/2.4f38d596.chunk.js": "/fakebook/static/js/2.4f38d596.chunk.js",
   "static/js/2.4f38d596.chunk.js.map": "/fakebook/static/js/2.4f38d596.chunk.js.map",
   "index.html": "/fakebook/index.html",
-  "precache-manifest.3457ac5de8b19017d6bc7b99aa7b3fa1.js": "/fakebook/precache-manifest.3457ac5de8b19017d6bc7b99aa7b3fa1.js",
+  "precache-manifest.72eed9df616860bd239e0e7aff01a615.js": "/fakebook/precache-manifest.72eed9df616860bd239e0e7aff01a615.js",
   "service-worker.js": "/fakebook/service-worker.js"
 }

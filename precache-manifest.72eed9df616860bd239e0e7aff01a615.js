@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/fakebook/static/js/runtime~main.77276bc7.js"
   },
   {
-    "revision": "59e81910d203640f5c5f",
-    "url": "/fakebook/static/js/main.86838f06.chunk.js"
+    "revision": "83933d13fdcfe5d72dfe",
+    "url": "/fakebook/static/js/main.8e6024d5.chunk.js"
   },
   {
     "revision": "c971f7cefece86219e38",
     "url": "/fakebook/static/js/2.4f38d596.chunk.js"
   },
   {
-    "revision": "9b9103be8df8602ce7ecdac50d39ce6a",
+    "revision": "a9f5b1aaea63c6d3dd6806b11902a95c",
     "url": "/fakebook/index.html"
   }
 ];
